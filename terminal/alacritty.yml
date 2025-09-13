@@ -1,0 +1,15 @@
+# Example alacritty.yml file
+window:
+  padding:
+    x: 10
+    y: 10
+
+font:
+  size: 12
+  normal:
+    family: "Fira Code"
+
+colors:
+  primary:
+    background: "0x1e1e1e"
+    foreground: "0xd4d4d4"

@@ -1,0 +1,47 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Backup files created during organization
+*.backup
+*.bak
+*.orig
+
+# Log files
+*.log
+
+# IDE/Editor temporary files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Package manager cache
+node_modules/
+.npm/
+.yarn/
+
+# Archives and compressed files (unless specifically needed)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Sensitive files that shouldn't be in version control
+.env
+.env.local
+*.pem
+*.key
+id_rsa*
+id_ed25519*
