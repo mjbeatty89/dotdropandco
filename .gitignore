@@ -1,0 +1,35 @@
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local configuration (sensitive)
+**/local.conf
+**/private/
+**/.env.local
+
+# Backup files
+*.backup
+*.bak
+
+# IDE files
+.vscode/settings.json
+.idea/
+
+# OS generated files
+Desktop.ini
+$RECYCLE.BIN/
